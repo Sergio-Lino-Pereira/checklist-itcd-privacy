@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Política de Privacidade – Checklist ITCD</title>
+</head>
+<body style="font-family: Arial; max-width: 900px; margin: 40px auto; line-height: 1.6;">
+<h1>Política de Privacidade – Checklist ITCD</h1>
+
+<p>A extensão <strong>Checklist ITCD</strong> não coleta, não armazena, não transmite e não compartilha nenhum tipo de dado pessoal.</p>
+
+<h2>1. Finalidade da Extensão</h2>
+<p>A extensão tem como único propósito auxiliar servidores na revisão de informações exibidas nas páginas do sistema ITCD, gerando um checklist automatizado para fins de conferência.</p>
+
+<h2>2. Dados Processados Localmente</h2>
+<p>Todas as informações acessadas pela extensão são processadas <strong>exclusivamente no navegador do usuário</strong>. Nenhum dado é enviado a servidores externos.</p>
+
+<h2>3. Permissões Utilizadas</h2>
+<ul>
+  <li><strong>activeTab</strong> – Permite leitura temporária da aba ativa para gerar o checklist.</li>
+  <li><strong>host permissions</strong> – Restringe a execução apenas às páginas do sistema ITCD.</li>
+  <li><strong>scripting</strong> – Necessária para injetar o script do checklist na página.</li>
+  <li><strong>storage</strong> – Armazena apenas preferências locais do usuário (estado do painel).</li>
+</ul>
+
+<h2>4. Ausência de Coleta de Dados</h2>
+<p>A extensão não coleta dados pessoais, não usa cookies, não rastreia sessões e não realiza nenhum tipo de monitoramento.</p>
+
+<h2>5. Contato</h2>
+<p>Em caso de dúvidas sobre esta política, entre em contato com o desenvolvedor.</p>
+
+<p>Última atualização: 2025</p>
+
+</body>
+</html>
